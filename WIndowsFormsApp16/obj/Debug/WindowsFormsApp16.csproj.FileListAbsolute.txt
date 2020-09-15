@@ -1,0 +1,4 @@
+C:\Users\Aksal\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojAssemblyReference.cache
+C:\Users\Aksal\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\Aksal\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\Aksal\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
